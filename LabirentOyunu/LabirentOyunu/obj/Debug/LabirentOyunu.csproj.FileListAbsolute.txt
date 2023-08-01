@@ -1,0 +1,32 @@
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.SuggestedBindingRedirects.cache
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\VizeProjesi\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\user\OneDrive\Masaüstü\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
+D:\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+D:\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+D:\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+D:\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+D:\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.SuggestedBindingRedirects.cache
+D:\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+D:\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+D:\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.SuggestedBindingRedirects.cache
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+D:\kodlar\C# kodları\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
